@@ -1,0 +1,15 @@
+body {
+    width: 100%;
+    background-color: rgb(184, 121, 38);
+}
+
+.container {
+    width:960px;
+    margin: 0 auto;
+}
+
+#about-me{
+    margin-top: 75px;
+    padding: 10px;
+    background-color: aliceblue;
+}
