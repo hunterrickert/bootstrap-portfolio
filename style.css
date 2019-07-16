@@ -11,3 +11,34 @@ body {
     background-color: aliceblue;
 }
 
+#contact-square {
+    /* background-color: red; */
+    padding: 15px;
+    width:150px;
+    font-size: 30px;
+    color: rgb(216, 157, 81);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button-color {
+    background-color: white;
+    color: black;
+}
+header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: rgb(216, 157, 81);
+}
+.head-portfolio {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(216, 157, 81);
+    padding: 10 0 0 10;
+    margin: 10px; */
+}
+#portfolio-body {
+    background-color: aliceblue;
+    height: 1200px;
+    margin-top: 75px;
+    padding:20px;
+}
